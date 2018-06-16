@@ -17,7 +17,7 @@ public class animal {
 
 ## Palavra reservada new
 
-É a palavra utilizada para invocar o construtor
+É a palavra chave utilizada para invocar o construtor
 
 Ex:
 
@@ -33,6 +33,23 @@ public class ex {
 	}
 
 }
+```
+
+## Palavra reservada instanciof
+
+É a palavra chave utilizada para verifcar se um objeto é uma instancia de uma classe, ou seja se esse objeto foi criado a partit dessa classe
+
+Ex:
+
+```java
+public boolean equals(Object object){
+		boolean b = false;
+		if(object instanceof Ponto){
+			Ponto q = (Ponto) object;
+			b = x == q.getX() && y == q.getY();
+		}
+		return b;
+	}
 ```
 
 
