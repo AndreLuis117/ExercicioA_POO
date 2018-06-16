@@ -1,6 +1,6 @@
 # trabalhoPOO
 
-## Construtor: 
+## Construtor 
 Um construtor é basicamente o responsável por criar objetos de uma classe. Sempre tem o mesmo nome da classe e não tem nenhum tipo de retorno.
 
 Ex:
@@ -14,3 +14,25 @@ public class animal {
 
 } 
 ```
+
+## Palavra reservada new
+
+É a palavra utilizada para invocar o construtor
+
+Ex:
+
+```
+public class ex {
+	
+	public static void main (String[] args) {
+		animal m = new animal("macaco");
+		m.setraça("homo");
+		System.out.println(m.getraça());
+		
+		
+	}
+
+}
+```
+
+
