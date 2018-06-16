@@ -1,6 +1,8 @@
 # trabalhoPOO
 
-**Construtor:** Um construtor é basicamente o responsável por criar objetos de uma classe. Sempre tem o mesmo nome da classe e não tem nenhum tipo de retorno.
+##Construtor: 
+Um construtor é basicamente o responsável por criar objetos de uma classe. Sempre tem o mesmo nome da classe e não tem nenhum tipo de retorno.
+
 Ex:
 
 '''
