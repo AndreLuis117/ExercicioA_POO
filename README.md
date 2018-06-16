@@ -21,7 +21,7 @@ public class animal {
 
 Ex:
 
-```
+```java
 public class ex {
 	
 	public static void main (String[] args) {
