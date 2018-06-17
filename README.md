@@ -202,5 +202,15 @@ final public class animal {
 
 ## Relacionamento de dependência
 
+Relacionamento de quando uma classe depende de outra, ocorre quando uma classe usa os serviços de outra
+
+Ex:
+
+![alt text](https://github.com/AndreLuis117/trabalhoPOO/blob/master/Dependencia.png)
+
+
+
+
+
 
 	
