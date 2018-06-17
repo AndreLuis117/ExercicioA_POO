@@ -208,6 +208,15 @@ Ex:
 
 ![alt text](https://github.com/AndreLuis117/trabalhoPOO/blob/master/Dependencia.png)
 
+## Relacinamento de Agregação
+
+Ocorre quando uma classe está agregando itens em outra classe (relaciomaneto todo - parte), neste caso a parte existe em o todo
+
+Ex:
+
+![alt text](https://github.com/AndreLuis117/trabalhoPOO/blob/master/Agrega%C3%A7%C3%A3o.png)
+
+
 
 
 
