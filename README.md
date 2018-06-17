@@ -114,3 +114,17 @@ Ex:
 ```java
 private String raça;
 ```
+
+## Assinatura de método
+
+Faz parte da assinatura de método a visibilidade do mesmo, nome, argumentos, quantidades de argumentos
+
+Ex:
+
+```java
+public void setraça(String raça) {
+		this.raça = raça;
+	}
+```
+
+## Sobrecarga de método
