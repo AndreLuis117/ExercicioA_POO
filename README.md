@@ -62,6 +62,18 @@ Ex:
 m.setraça("homo");
 ```
 
+## Palavra reservada this
+
+É utilizada para meios de diferenciação entre métodos e nome de parametros
+
+Ex:
+
+```java
+public void setraça(String raça) {
+		this.raça = raça;
+	}
+```
+
 
 
 
