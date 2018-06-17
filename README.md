@@ -128,3 +128,16 @@ public void setraça(String raça) {
 ```
 
 ## Sobrecarga de método
+
+É uma tecnica que permite que vários métodos coexistam com o mesmo nome
+
+```java
+public class Personagem {
+    public void acelerar(Carro carro) {
+    }
+    public void acelerar(Motocicleta motocicleta) {
+    }
+    public void acelerar(Caminhonete caminhonete) {
+    }
+}
+```
