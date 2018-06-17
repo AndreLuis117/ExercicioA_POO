@@ -74,6 +74,43 @@ public void setraça(String raça) {
 	}
 ```
 
+## Getters/Setters
 
+O getter é utilizado para buscar alguma informação sem ter que invocar o atributo, normalmente é utilizado junto com o encapsulamento
 
+Ex:
 
+```java
+public String getraça() {
+		return raça;
+		
+	}
+```
+
+O setter é utilizado para para setar alguma informação ao atributo ou variável em questão
+
+Ex:
+
+```java
+public void setraça(String raça) {
+		this.raça = raça;
+	}
+```
+
+## Palavra reservada public/private
+
+A palavra chave public serve para idenbtificar a visibilidade da classe, objeto ou método como publico ou seja que pode ser visualizado e alterada por todos
+
+Ex:
+
+```java
+public double peso;
+```
+
+A palavra chave private tem como função identificar a visibilidade da classe, objeto ou método como privado, nesse caso sópodem ser visualizados ou aletrados por métodos especificos aplicando assim a técnica de encapsulamento
+
+Ex:
+
+```java
+private String raça;
+```
