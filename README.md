@@ -141,3 +141,66 @@ public class Personagem {
     }
 }
 ```
+
+## Escopo de classe
+
+Escopo de classe é ademarcação que você dá a classe, ou seja, aonde ela começa e aond eela termina
+
+Ex:
+
+```java
+public class animal { //aqui a classe começa
+	private String raça;
+	public double peso;
+	
+	public animal (String raça) { 
+		this.raça = raça; }
+
+	public String getraça() {
+		return raça;
+		
+	}
+	public void setraça(String raça) {
+		this.raça = raça;
+	}
+	
+	
+}  //aqui a classe termina
+```
+
+## Escopo de objeto
+
+## Palavra reservada final
+
+Quando usada para definir uma variável, significa que a variável não pode assumir outro valor, tornando-se assim uma constante 
+
+Ex: 
+
+```java
+	final int pesofixo = 10;
+```
+
+Quando utilizada na definição de um método, significa que o método não poderá ser aletrado ou sobrescrito
+
+Ex:
+
+```java
+final public String getraça() {
+		return raça;
+		
+	}
+```
+
+Quando usada para definir uma classe, significa que a classe não vai permitir herança
+
+Ex:
+
+```java
+final public class animal {
+}
+```
+
+## Relacionamento de dependência
+
+
+	
