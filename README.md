@@ -52,4 +52,16 @@ public boolean equals(Object object){
 	}
 ```
 
+## Encapsulamento
+
+É um tipo de tecnica que possibilita "esconder" atributos auxiliando dessa forma na proteção dos
+
+Ex: 
+
+``` java 		
+m.setraça("homo");
+```
+
+
+
 
