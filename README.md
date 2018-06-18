@@ -216,6 +216,19 @@ Ex:
 
 ![alt text](https://github.com/AndreLuis117/trabalhoPOO/blob/master/Agrega%C3%A7%C3%A3o.png)
 
+## Relacionamento de Composição
+
+Ocorre quando uma classe é composta de outra classe (relacionamento todo - parte), neste caso a parte não existe sem o todo
+
+Ex:
+
+![alt text](https://github.com/AndreLuis117/trabalhoPOO/blob/master/Composi%C3%A7%C3%A3o.png)
+
+
+
+
+
+
 
 
 
