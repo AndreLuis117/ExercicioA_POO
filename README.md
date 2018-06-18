@@ -54,12 +54,20 @@ public boolean equals(Object object){
 
 ## Encapsulamento
 
-É um tipo de tecnica que possibilita "esconder" atributos auxiliando dessa forma na proteção dos
+É um tipo de tecnica que possibilita "esconder" atributos auxiliando dessa forma na proteção dos dados, usando essa tecnica os atributos só podem ser alterados a partir de métodos específicos
 
 Ex: 
 
 ``` java 		
-m.setraça("homo");
+	private String raça;
+```
+
+Só pode ser alterado por:
+
+```java
+public void setraça(String raça) {
+		this.raça = raça;
+	}
 ```
 
 ## Palavra reservada this
