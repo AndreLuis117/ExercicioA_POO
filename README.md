@@ -15,6 +15,16 @@ public class animal {
 } 
 ```
 
+## Instanciação
+
+É a ação de criar um objeto a partir de uma classe
+
+Ex:
+
+```java
+animal m = new animal();
+```
+
 ## Palavra reservada new
 
 É a palavra chave utilizada para invocar o construtor
