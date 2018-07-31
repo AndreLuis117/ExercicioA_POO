@@ -1,4 +1,4 @@
-# Exercício A - POO
+# Conceitos de Programação Orientada a Objetos
 
 ## Construtor 
 Um construtor é basicamente o responsável por criar objetos de uma classe. Sempre tem o mesmo nome da classe e não tem nenhum tipo de retorno
