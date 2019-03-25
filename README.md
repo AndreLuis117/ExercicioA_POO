@@ -1,4 +1,6 @@
 # Conceitos de Programação Orientada a Objetos
+Documento com  de conceitos de programação orientada a objetos, utilizado para obtenção de nota bimestral para a matéria de Programação Orientada a Objetos no 2º ano de Sistemas de Informação da Universidade da Região de Joinville (Univille).
+
 
 ## Construtor 
 Um construtor é basicamente o responsável por criar objetos de uma classe. Sempre tem o mesmo nome da classe e não tem nenhum tipo de retorno
@@ -41,7 +43,7 @@ public class ex {
 
 ## Palavra reservada instanciof
 
-É a palavra chave utilizada para verifcar se um objeto é uma instancia de uma classe, ou seja se esse objeto foi criado a partit dessa classe
+É a palavra chave utilizada para verifcar se um objeto é uma instancia de uma classe, ou seja se esse objeto foi criado a partir dessa classe
 
 Ex:
 
@@ -111,7 +113,7 @@ public void setraça(String raça) {
 
 ## Palavra reservada public/private
 
-A palavra chave public serve para idenbtificar a visibilidade da classe, objeto ou método como publico ou seja que pode ser visualizado e alterada por todos
+A palavra chave public serve para identificar a visibilidade da classe, objeto ou método como publico ou seja que pode ser visualizado e alterada por todos
 
 Ex:
 
